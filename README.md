@@ -47,7 +47,7 @@ This project is for Airbnb Hosts who want to understand how major events, like T
 
 
   
-#### - **Conclusion**: 
+#### **Conclusion**: 
 Airbnb hosts can significantly benefit from Swift's concerts by adjusting their pricing strategies. The study suggests a middle-range pricing model during concert dates to maximize bookings.
 
 ### Further Research (expand study)
