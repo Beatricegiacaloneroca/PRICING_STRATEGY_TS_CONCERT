@@ -1,8 +1,12 @@
-## Can Airbnb Hosts leverage Taylor Swift's Concerts to boost their Airbnb Revenue?
+## Can Airbnb Hosts leverage Taylor Swift's Concerts to boost their Airbnb Revenue?
 
-## Introduction
+<div align="center">
+  <img width="690" alt="Screenshot 2024-07-29 at 2 09 25 PM" src="https://github.com/user-attachments/assets/e5faf5a6-6969-43d4-9b9e-4cc99187ac61">
+</div>
 
-Many studies have already been published on the general impact that Taylor Swift has on the economy of a country when she performs a concert. However, few studies focus on her impact on specific businesses. 
+
+Multiple studies have already covered the general impact that Taylor Swift has on the economy of a country when she performs a concert. 
+However, few focus on her impact on specific businesses. 
 This project dives into how her concerts affect Airbnb revenue, **particularly for hosts looking to optimize their pricing strategies.**
 
 ## Motivation
@@ -26,30 +30,13 @@ This project is for Airbnb Hosts who want to understand how major events, like T
 
 ## Methodology
 
-- **Data Collection:** We gathered data from different Airbnb listings in cities hosting Taylor Swift concerts.
-- **Analysis:** We ran statistical analyses to find the average price increase and its consistency across neighborhoods.
-- **Comparison:** We compared prices on concert dates versus non-concert dates to see the impact.
+- **Data Collection:**
+* The primary dataset is the Airbnb listings in Los Angeles, updated last in September 2023, relevant for our study surrounding Swift's August 2023 concerts.
+*  The dataset is available at [Inside Airbnb](http://insideairbnb.com/get-the-data/).
+- **Analysis:** We establish a baseline of prices and we compare concert dates versus non-concert dates to see the impact across different neighborhoods
+- **Conclusion**: Airbnb hosts can significantly benefit from Swift's concerts by adjusting their pricing strategies. The study suggests a middle-range pricing model during concert dates to maximize bookings.
 
-
-
-
-## Data Collection
-The primary dataset is the Airbnb listings in Los Angeles, updated last in September 2023, relevant for our study surrounding Swift's August 2023 concerts. The dataset is available at [Inside Airbnb](http://insideairbnb.com/get-the-data/).
-
-## Methodology
-### Data Preparation
-Data cleaning focuses on listings within Los Angeles close to the concert venue. We categorize the data into two sets: baseline listings for general trends and concert-specific listings for dates coinciding with Swift's concerts.
-
-### Exploratory Analysis
-Initial analysis involves comparing the number of bookings and types of rooms booked during baseline periods and concert dates. Key indicators include changes in room prices and types of accommodations preferred by concertgoers.
-
-## Results
-- 
-
-## Conclusion
-Airbnb hosts can significantly benefit from Swift's concerts by adjusting their pricing strategies. The study suggests a middle-range pricing model during concert dates to maximize bookings.
-
-## Further Research
+## Further Research (expand study)
 - **Transportation Trends**: Examining transportation usage during concert dates could offer additional insights.
 - **Cross-City Analysis**: Comparing data across different cities where Swift performs could help optimize pricing strategies for hosts with properties in multiple locations.
 - **Restaurant Data**: Incorporating restaurant review data could provide a fuller picture of economic impacts during concert dates.
@@ -58,5 +45,4 @@ Airbnb hosts can significantly benefit from Swift's concerts by adjusting their 
 The main limitation is the availability of relevant data for comprehensive analysis across different locations and sectors.
 
 ## Contact
-
-For more info, please reach out to [Your Email].
+For more info, please reach out to beatricegiacaloneroca@gmail.com
