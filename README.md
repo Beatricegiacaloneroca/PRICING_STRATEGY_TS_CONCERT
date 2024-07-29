@@ -29,7 +29,7 @@ This project is for Airbnb Hosts who want to understand how major events, like T
 #### - **Analysis and Key Findings:**
 
 1. **Price Dynamics:**
-     * Airbnb **prices jump by an average of 16.71%** ⬆️  in neighborhoods where Taylor Swift fans stay during her concerts.
+     * Airbnb **prices jump by an average of 16.71%** in neighborhoods where Taylor Swift fans stay during her concerts.
        <img width="840" alt="Screenshot 2024-07-29 at 8 25 48 PM" src="https://github.com/user-attachments/assets/7f2a9374-3a5a-4bf7-933d-13301a2d52cb">
        <img width="487" alt="Screenshot 2024-07-29 at 8 26 24 PM" src="https://github.com/user-attachments/assets/46c360e5-19e5-4832-87af-d863613a3511">
 
@@ -47,7 +47,8 @@ This project is for Airbnb Hosts who want to understand how major events, like T
 
 
   
-#### - **Conclusion**: Airbnb hosts can significantly benefit from Swift's concerts by adjusting their pricing strategies. The study suggests a middle-range pricing model during concert dates to maximize bookings.
+#### - **Conclusion**: 
+Airbnb hosts can significantly benefit from Swift's concerts by adjusting their pricing strategies. The study suggests a middle-range pricing model during concert dates to maximize bookings.
 
 ### Further Research (expand study)
 - **Transportation Trends**: Examining transportation usage during concert dates could offer additional insights.
