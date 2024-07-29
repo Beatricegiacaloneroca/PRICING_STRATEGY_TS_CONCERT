@@ -9,13 +9,17 @@ Multiple studies have already covered the general impact that Taylor Swift has o
 However, few focus on her impact on specific businesses. 
 This project dives into how her concerts affect Airbnb revenue, **particularly for hosts looking to optimize their pricing strategies.**
 
+## Objective
+
+The goal of this study is to give Airbnb Hosts insights into the best pricing strategies during major events like Taylor Swift's concerts. This can help hosts maximize their revenue and make smart pricing decisions.
+
 ## Motivation
 
 This project idea was born when **I was helping a relative set up their Airbnb Host account**. With everyone talking about the Eras Tour, **I got curious** about how Taylor Swift's presence could boost Airbnb revenue for my relative.
 
-## Objective
+## Audience
 
-The goal of this study is to give Airbnb Hosts insights into the best pricing strategies during major events like Taylor Swift's concerts. This can help hosts maximize their revenue and make smart pricing decisions.
+This project is for Airbnb Hosts who want to understand how major events, like Taylor Swift concerts, can impact their pricing strategies and revenue. The insights here can help you adjust your prices to make the most of these events.
 
 ## Key Findings
 
@@ -23,10 +27,9 @@ The goal of this study is to give Airbnb Hosts insights into the best pricing st
 2. **Booking Preferences**: Entire homes/apartments are preferred during concerts, despite higher prices.
 3. **Neighborhood Popularity**: Certain neighborhoods like Venice and Hollywood see more bookings during concert dates.
 
+<img width="343" alt="Screenshot 2024-07-29 at 5 05 47 PM" src="https://github.com/user-attachments/assets/3303264d-4e22-479a-bd26-3a32ce14f1b5">
 
-## Audience
 
-This project is for Airbnb Hosts who want to understand how major events, like Taylor Swift concerts, can impact their pricing strategies and revenue. The insights here can help you adjust your prices to make the most of these events.
 
 ## Methodology
 
