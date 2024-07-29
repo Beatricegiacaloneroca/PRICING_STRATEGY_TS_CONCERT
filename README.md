@@ -31,8 +31,8 @@ This project is for Airbnb Hosts who want to understand how major events, like T
 ## Methodology
 
 - **Data Collection:**
-* The primary dataset is the Airbnb listings in Los Angeles, updated last in September 2023, relevant for our study surrounding Swift's August 2023 concerts.
-*  The dataset is available at [Inside Airbnb](http://insideairbnb.com/get-the-data/).
+  * The primary dataset is the Airbnb listings in Los Angeles, updated last in September 2023, relevant for our study surrounding Swift's August 2023 concerts.
+  *  The dataset is available at [Inside Airbnb](http://insideairbnb.com/get-the-data/).
 - **Analysis:** We establish a baseline of prices and we compare concert dates versus non-concert dates to see the impact across different neighborhoods
 - **Conclusion**: Airbnb hosts can significantly benefit from Swift's concerts by adjusting their pricing strategies. The study suggests a middle-range pricing model during concert dates to maximize bookings.
 
