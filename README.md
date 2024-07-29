@@ -25,9 +25,16 @@ This project is for Airbnb Hosts who want to understand how major events, like T
 
 1. **Price Dynamics:** Airbnb prices jump by an average of **16.71% in neighborhoods where Taylor Swift** fans stay during her concerts.
 2. **Booking Preferences**: Entire homes/apartments are preferred during concerts, despite higher prices.
-3. **Neighborhood Popularity**: Certain neighborhoods like Venice and Hollywood see more bookings during concert dates.
+  * <img width="283" alt="Screenshot 2024-07-29 at 8 24 27 PM" src="https://github.com/user-attachments/assets/425edbb4-e9f3-402c-9c39-c8ef1ec5af54">
 
-<img width="343" alt="Screenshot 2024-07-29 at 5 05 47 PM" src="https://github.com/user-attachments/assets/3303264d-4e22-479a-bd26-3a32ce14f1b5">
+3. **Neighborhood Popularity**: ***Do TS fans look for luxury listings?***
+      * We notice that there is no strong direct relationship between the price of the listing and the number of bookings
+      * However, we observe that the most popular behavior is to get medium priced listings
+      * This is expected as considering the audience of the concert, they are not business travelers, thus they are not after the most expensive listings
+      * However, they still want to ensure that they are in a safe place
+<img width="522" alt="Screenshot 2024-07-29 at 8 23 50 PM" src="https://github.com/user-attachments/assets/9c06e19a-d8b7-4cde-a098-24976692faff">
+
+
 
 
 
