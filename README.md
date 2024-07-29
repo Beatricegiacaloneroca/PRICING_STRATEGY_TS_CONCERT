@@ -11,7 +11,7 @@ This project dives into how her concerts affect Airbnb revenue, **particularly f
 
 ## Motivation
 
-This project idea was born when **I was helping a relative set up their Airbnb Host account**. With everyone talking about the Eras Tour, I got curious about how Taylor Swift's presence could boost Airbnb revenue for my relative.
+This project idea was born when **I was helping a relative set up their Airbnb Host account**. With everyone talking about the Eras Tour, **I got curious** about how Taylor Swift's presence could boost Airbnb revenue for my relative.
 
 ## Objective
 
@@ -19,7 +19,7 @@ The goal of this study is to give Airbnb Hosts insights into the best pricing st
 
 ## Key Findings
 
-1. **Price Dynamics:** Airbnb prices jump by an average of 16.71% in neighborhoods where Taylor Swift fans stay during her concerts.
+1. **Price Dynamics:** Airbnb prices jump by an average of **16.71% in neighborhoods where Taylor Swift** fans stay during her concerts.
 2. **Booking Preferences**: Entire homes/apartments are preferred during concerts, despite higher prices.
 3. **Neighborhood Popularity**: Certain neighborhoods like Venice and Hollywood see more bookings during concert dates.
 
